@@ -1,5 +1,6 @@
 # ipmoon
 코딩입문자 전용 레포
+헤더부터 푸터까지!!가 아닌 <U>생활코딩에서 토이 프로젝트까지!</U>
 
 ## 깃허브(Github) 환경설정
 1. [깃허브 회원가입 링크](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)  
